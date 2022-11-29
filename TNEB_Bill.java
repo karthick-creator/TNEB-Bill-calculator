@@ -1,5 +1,3 @@
-package Codes_in_life;
-
 import java.util.Scanner;
 
 public class TNEB_Bill {
